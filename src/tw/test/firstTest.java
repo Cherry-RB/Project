@@ -8,6 +8,7 @@ public class firstTest {
 		
 		System.out.println("first Test");
 		
+		System.out.println("second Test");
 	}
 
 }
